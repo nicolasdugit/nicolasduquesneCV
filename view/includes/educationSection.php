@@ -12,22 +12,16 @@
 			
 				<div class="education-wrapper margin-b-50">
 					
-					<div class="education left">
+					<div class="education right">
 						<h4><b>DEVELOPPEUR INTEGRATEUR EN REALISATION D'APPLICATION WEB</b></h4>
 						<h5 class="font-yellow"><b>OPENCLASSROOM</b></h5>
 						<h6 class="font-lite-black margin-t-10">EN COURS (6 MOIS)</h6>
-						<p class="margin-t-30">Le développeur web doit traduire, en langage web, des recommandations graphiques en rédigeant du code HTML, CSS, mais aussi JavaScript et PHP.
-						La Formation s'oriente donc sur ces points : <br>
-							assembler les pages en HTML5 et CSS3 à partir de maquettes graphiques <br>
-							intégrer des contenus textes, images, sons, vidéos dans le code HTML5 <br>
-							respecter les normes d’accessibilité et de référencement du W3C <br>
-							assurer la compatibilité avec les différents navigateurs du marché <br>
-							mettre en place une communication entre client et serveur avec JavaScript et PHP <br>
-							organiser et gérer la base de données
+						<p class="margin-t-30">Le développeur web doit traduire, en langage web, des recommandations graphiques en rédigeant du code HTML, CSS, mais aussi JavaScript et PHP. <br>
+						La Formation s'effectue à distance sur une durée de 6 mois.
 						</p>
 					</div>
 					
-					<div class="education right">
+					<div class="education left">
 						<h4><b>DUT GENIE CIVIL</b></h4>
 						<h5 class="font-yellow"><b>UNIVERSITÉ PAUL SABATIER, TOULOUSE III</b></h5>
 						<h6 class="font-lite-black margin-t-10">RECU EN JUIN 2006 (2 ANS)</h6>
@@ -36,7 +30,7 @@
 
 					</div>
 
-					<div class="education left">
+					<div class="education right">
 						<h4><b>BACCALAUREAT SERIE SCIENTIFIQUE</b></h4>
 						<h5 class="font-yellow"><b>LYCÉE JACQUES MONOD, LESCAR</b></h5>
 						<h6 class="font-lite-black margin-t-10">RECU EN 2004</h6>
