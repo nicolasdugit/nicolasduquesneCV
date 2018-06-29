@@ -17,10 +17,10 @@
 	<!-- Stylesheets des differents templates -->
 	<link href="public/css/business-styles.css" rel="stylesheet">
 	<link href="public/css/business-responsive.css" rel="stylesheet">
-	<link href="public/css/boxed-styles.css" rel="stylesheet">
-	<link href="public/css/boxed-responsive.css" rel="stylesheet">
-	<link href="public/css/portfolio-styles.css" rel="stylesheet">
-	<link href="public/css/portfolio-responsive.css" rel="stylesheet">
+	<!-- <link href="public/css/boxed-styles.css" rel="stylesheet"> -->
+	<!-- <link href="public/css/boxed-responsive.css" rel="stylesheet"> -->
+	<!-- <link href="public/css/portfolio-styles.css" rel="stylesheet"> -->
+	<!-- <link href="public/css/portfolio-responsive.css" rel="stylesheet"> -->
 	
 </head>
 <body>
