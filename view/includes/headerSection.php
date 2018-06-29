@@ -27,7 +27,7 @@
 						<i class="icon ion-ios-chatboxes-outline"></i>
 						<div class="right-area">
 							<h5>contact@nicolasduquesne.com</h5>
-							<h6>REPLY IN 24 HOURS</h6>
+							<h6></h6>
 						</div><!-- right-area -->
 					</div><!-- info -->
 				</div><!-- col-sm-4 -->

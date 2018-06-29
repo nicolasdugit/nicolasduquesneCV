@@ -9,15 +9,13 @@
 					<h4 class="font-yellow">Web Developer</h4>
 					<ul class="information margin-tb-30">
 						<li><b>AGE : </b>32</li>
-						<li><b>EMAIL : </b>contact@nicolasduquesnecom</li>
-						<!-- <li><b>MARITAL STATUS : </b>Married</li> -->
+						<li><b>EMAIL : </b>contact@nicolasduquesne.com</li>
 					</ul>
 					<ul class="social-icons">
-						<!-- <li><a href="#"><i class="ion-social-pinterest"></i></a></li> -->
 						<li><a href="#"><i class="ion-social-linkedin"></i></a></li>
-						<!-- <li><a href="#"><i class="ion-social-instagram"></i></a></li> -->
 						<li><a href="#"><i class="ion-social-facebook"></i></a></li>
 						<li><a href="#"><i class="ion-social-github"></i></a></li>
+						<li><a href="#"><i class="ion-social"></i></a></li>
 					</ul>
 				</div><!-- intro -->
 			</div><!-- col-sm-8 -->
