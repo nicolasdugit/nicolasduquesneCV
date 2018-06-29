@@ -1,1 +1,10 @@
-<?php include('templates/template.php') ?>
+
+
+<?php ob_start(); ?>
+
+	<?php include('view/includes/headerSection.php') ?>
+	<?php include('view/includes/introSection.php') ?>
+
+<?php $content = ob_get_clean(); ?>
+
+<?php require('templates/template.php') ?>
