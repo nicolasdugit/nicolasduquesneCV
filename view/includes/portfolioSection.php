@@ -4,19 +4,19 @@
 			<div class="col-sm-12">
 				<div class="heading">
 					<h3><b>Portfolio</b></h3>
-					<h6 class="font-lite-black"><b>MY WORK</b></h6>
+					<h6 class="font-lite-black"><b>MES TRAVAUX</b></h6>
 				</div>
-			</div><!-- col-sm-12 -->
+			</div>
 			
 			<div class="col-sm-12">
 				<div class="portfolioFilter clearfix margin-b-80">
-					<a href="#" data-filter="*" class="current"><b>ALL</b></a>
+					<a href="#" data-filter="*" class="current"><b>TOUS</b></a>
 					<a href="#" data-filter=".web-design"><b>WEB DESIGN</b></a>
 					<a href="#" data-filter=".branding"><b>BRANDING</b></a>
 					<a href="#" data-filter=".graphic-design"><b>GRAPHIC DESIGN</b></a>
-				</div><!-- portfolioFilter -->
-			</div><!-- col-sm-8 -->
-		</div><!-- row -->
+				</div>
+			</div>
+		</div>
 		
 		<div class="portfolioContainer margin-b-50">
 			
