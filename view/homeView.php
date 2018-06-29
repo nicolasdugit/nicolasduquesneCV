@@ -8,7 +8,6 @@
 	<?php include('view/includes/experienceSection.php') ?>
 	<?php include('view/includes/portfolioSection.php') ?>
 	<?php include('view/includes/educationSection.php') ?>
-	<?php include('view/includes/quoteSection.php') ?>
 	<?php include('view/includes/skillsSection.php') ?>
 	<?php include('view/includes/progressSection.php') ?>
 
