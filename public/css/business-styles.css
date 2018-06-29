@@ -112,18 +112,6 @@ b.max-bold{ font-weight: 700; }
 .center-text{ text-align: center; }
 
 
-
-/* ---------------------------------
-3. INTRO SECTION
---------------------------------- */
-
-.intro-section{ padding: 50px 0; position: relative; background-size: cover; 
-	z-index: 1;background-image: url(../../images/slider-3-1920x1080.jpg); }
-
-.intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
-	right: 0; background: rgba(0,0,0, .2); }
-
-
 /* ---------------------------------
 3. HEADER
 --------------------------------- */
@@ -144,12 +132,13 @@ header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margi
 
 header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: translateY(-4px); }
 
+
 /* ---------------------------------
 4. INTRO SECTION
 --------------------------------- */
 
 .intro-section{ padding-top: 200px; position: relative; background-size: cover; 
-	z-index: 1;background-image: url(../../images/slider-1-1920x1080.jpg); }
+	z-index: 1;background-image: url(public/images/slider-1-1920x1080.jpg); }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
 	right: 0; background: rgba(0,0,0, .2); }
