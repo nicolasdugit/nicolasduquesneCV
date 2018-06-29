@@ -9,6 +9,7 @@
 	<?php include('view/includes/portfolioSection.php') ?>
 	<?php include('view/includes/educationSection.php') ?>
 	<?php include('view/includes/quoteSection.php') ?>
+	<?php include('view/includes/skillsSection.php') ?>
 
 <?php $content = ob_get_clean(); ?>
 
