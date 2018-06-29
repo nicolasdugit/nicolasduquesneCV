@@ -21,43 +21,43 @@
 		<div class="portfolioContainer margin-b-50">
 			
 			<div class="p-item web-design">
-				<a href="images/portfolio-13-400x400.jpg" data-fluidbox>
-					<img src="images/portfolio-13-400x400.jpg" alt=""></a>
+				<a href="public/images/portfolio-13-400x400.jpg" data-fluidbox>
+					<img src="public/images/portfolio-13-400x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 			
 			<div class="p-item branding graphic-design">
-				<a href="images/portfolio-14-400x400.jpg" data-fluidbox>
-					<img src="images/portfolio-14-400x400.jpg" alt=""></a>
+				<a href="public/images/portfolio-14-400x400.jpg" data-fluidbox>
+					<img src="public/images/portfolio-14-400x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 			
 			<div class="p-item web-design">
-				<a href="images/portfolio-15-400x400.jpg" data-fluidbox>
-					<img src="images/portfolio-15-400x400.jpg" alt=""></a>
+				<a href="public/images/portfolio-15-400x400.jpg" data-fluidbox>
+					<img src="public/images/portfolio-15-400x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 			
 			<div class="p-item graphic-design">
-				<a class="img" href="images/portfolio-16-400x400.jpg" data-fluidbox>
-					<img src="images/portfolio-16-400x400.jpg" alt=""></a>
+				<a class="img" href="public/images/portfolio-16-400x400.jpg" data-fluidbox>
+					<img src="public/images/portfolio-16-400x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 			
 			<div class="p-item branding graphic-design">
-				<a href="images/portfolio-17-400x400.jpg" data-fluidbox>
-					<img src="images/portfolio-17-400x400.jpg" alt=""></a>
+				<a href="public/images/portfolio-17-400x400.jpg" data-fluidbox>
+					<img src="public/images/portfolio-17-400x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 			
 			<div class="p-item graphic-design web-design">
-				<a href="images/portfolio-18-400x400.jpg" data-fluidbox>
-					<img src="images/portfolio-18-400x400.jpg" alt=""></a>
+				<a href="public/images/portfolio-18-400x400.jpg" data-fluidbox>
+					<img src="public/images/portfolio-18-400x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 			
 			<div class="p-item  graphic-design branding">
-				<a href="images/portfolio-19-400x400.jpg" data-fluidbox>
-					<img src="images/portfolio-19-400x400.jpg" alt=""></a>
+				<a href="public/images/portfolio-19-400x400.jpg" data-fluidbox>
+					<img src="public/images/portfolio-19-400x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 				
 			<div class="p-item web-design branding">
-				<a href="images/portfolio-20-400x400.jpg" data-fluidbox>
-					<img src="images/portfolio-20-400x400.jpg" alt=""></a>
+				<a href="public/images/portfolio-20-400x400.jpg" data-fluidbox>
+					<img src="public/images/portfolio-20-400x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 		
 		</div><!-- portfolioContainer -->
