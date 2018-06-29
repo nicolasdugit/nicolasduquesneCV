@@ -7,6 +7,7 @@
 	<?php include('view/includes/aboutSection.php') ?>
 	<?php include('view/includes/experienceSection.php') ?>
 	<?php include('view/includes/portfolioSection.php') ?>
+	<?php include('view/includes/educationSection.php') ?>
 
 <?php $content = ob_get_clean(); ?>
 
