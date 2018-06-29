@@ -5,6 +5,7 @@
 	<?php include('view/includes/headerSection.php') ?>
 	<?php include('view/includes/introSection.php') ?>
 	<?php include('view/includes/aboutSection.php') ?>
+	<?php include('view/includes/experienceSection.php') ?>
 
 <?php $content = ob_get_clean(); ?>
 
