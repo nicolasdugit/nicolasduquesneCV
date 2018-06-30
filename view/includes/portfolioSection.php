@@ -21,45 +21,69 @@
 		<div class="portfolioContainer margin-b-50">
 			
 			<div class="p-item pro">
-				<a href="http://www.poissonnerieduport.fr" data-fluidbox>
-					<img src="public/images/elise.png" alt="Poissonnerie du Port Chez Elise"></a>
-			</div><!-- p-item -->
+				<a href="http://www.poissonnerieduport.fr" target="_blank" data-fluidbox>
+					<figure>
+						<img src="public/images/elise.png" alt="Poissonnerie du Port Chez Elise">
+					</figure>
+				</a>
+			</div>
 			
 			<div class="p-item studies">
-				<a href="http://www.webagency.nicolasduquesne.com" data-fluidbox>
-					<img src="public/images/webagency.png" alt="Web Agency"></a>
-			</div><!-- p-item -->
+				<a href="http://www.webagency.nicolasduquesne.com" target="_blank" data-fluidbox>
+					<figure>
+						<img src="public/images/webagency.png" alt="Web Agency">
+					</figure>
+				</a>
+			</div>
 			
 			<div class="p-item pro">
-				<a href="http://www.perlouse-pigalle.fr" data-fluidbox>
-					<img src="public/images/perlouse.png" alt="Perlouse Pigalle"></a>
-			</div><!-- p-item -->
+				<a href="http://www.perlousepigalle.fr" target="_blank" data-fluidbox>
+					<figure>
+						<img src="public/images/perlouse.png" alt="Perlouse Pigalle">
+					</figure>
+				</a>
+			</div>
 			
 			<div class="p-item studies">
-				<a href="http://www.strasbourg-tourisme.nicolasduquesne.com" data-fluidbox>
-					<img src="public/images/strasbourg.jpg" alt="Strasbourg Tourisme"></a>
-			</div><!-- p-item -->
+				<a href="http://www.strasbourg-tourisme.nicolasduquesne.com" target="_blank" data-fluidbox>
+					<figure>
+						<img src="public/images/strasbourg.jpg" alt="Strasbourg Tourisme">
+					</figure>
+				</a>
+			</div>
 			
 			<div class="p-item pro">
-				<a href="http://www.upstairslab.nicolasduquesne.com" data-fluidbox>
-					<img src="public/images/portfolio-17-400x400.jpg" alt="UpstairsLab"></a>
-			</div><!-- p-item -->
+				<a href="http://www.upstairslab.nicolasduquesne.com" target="_blank" data-fluidbox>
+					<figure>
+						<img src="public/images/portfolio-17-400x400.jpg" alt="UpstairsLab">
+					</figure>
+				</a>
+			</div>
 			
 			<div class="p-item studies">
-				<a href="http://www.velov-lyon.nicolasduquesne.com" data-fluidbox>
-					<img src="public/images/velov.jpg" alt="ResaVelov Lyon"></a>
-			</div><!-- p-item -->
+				<a href="http://www.velov-lyon.nicolasduquesne.com" target="_blank" data-fluidbox>
+					<figure>
+						<img src="public/images/velov.jpg" alt="ResaVelov Lyon">
+					</figure>
+				</a>
+			</div>
 			
 			<div class="p-item studies">
-				<a href="http://www.blog-ecrivain.nicolasduquesne.com" data-fluidbox>
-					<img src="public/images/alaska.jpg" alt="Blog Ecrivain"></a>
-			</div><!-- p-item -->
+				<a href="http://www.blog-ecrivain.nicolasduquesne.com" target="_blank" data-fluidbox>
+					<figure>
+						<img src="public/images/alaska.jpg" alt="Blog Ecrivain">
+					</figure>
+				</a>
+			</div>
 				
 			<div class="p-item perso">
-				<a href="public/images/portfolio-20-400x400.jpg" data-fluidbox>
-					<img src="public/images/snake.png" alt="Snake"></a>
-			</div><!-- p-item -->
+				<a href="public/images/portfolio-20-400x400.jpg" target="_blank" data-fluidbox>
+					<figure>
+						<img src="public/images/snake.png" alt="Snake">
+					</figure>
+				</a>
+			</div>
 		
-		</div><!-- portfolioContainer -->
-	</div><!-- container -->
-</section><!-- portfolio-section -->
+		</div>
+	</div>
+</section>
