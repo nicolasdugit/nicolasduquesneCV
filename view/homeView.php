@@ -1,4 +1,6 @@
 <?php $title = "Nicolas Duquesne, Développeur Web" ?>
+<?php $description = "Bienvenue sur la page personnelle de Nicolas Duquesne, développeur web indépendant" ?>
+<?php $keywords = "Nicolas Duquesne, développeur, web, HML, CSS, JavaScript, PHP, Bootsrap, auto entrepreneur, indépendant" ?>
 
 <?php ob_start(); ?>
 
