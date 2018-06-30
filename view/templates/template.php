@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en">
+<html lang="fr_FR">
 <head>
 	<title><?= $title ?></title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
