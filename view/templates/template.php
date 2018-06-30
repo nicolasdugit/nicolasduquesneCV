@@ -1,25 +1,36 @@
 <!DOCTYPE HTML>
-<html lang="fr_FR">
+<html lang="<?= $language ?>">
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120928202-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-120928202-1');
+	</script>
+
 	<title><?= $title ?></title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8">
 
-	<meta name="description" content="<?= $description ?>" />
-	<meta name="keywords" content="<?= $keywords ?>" />
-	<meta name="author" content="Nicolas Duquesne" />
+	<meta name="description" content="<?= $description ?>" >
+	<meta name="keywords" content="<?= $keywords ?>" >
+	<meta name="author" content="Nicolas Duquesne" >
 
 	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content="<?= $title ?>"/>
-	<meta property="og:image" content="public/images/logo80px.png"/>
-	<meta property="og:url" content="http://www.nicolasduquesne.com"/>
-	<meta property="og:site_name" content="Nicolas Duquesne Développeur Web"/>
-	<meta property="og:description" content="<?= $description ?>"/>
-	<meta name="twitter:title" content="<?= $title ?>" />
-	<meta name="twitter:image" content="public/images/llogo80px.png" />
-	<meta name="twitter:url" content="http://www.nicolasduquesne.com" />
-	<meta name="twitter:card" content="" />
+	<meta property="og:title" content="<?= $title ?>" >
+	<meta property="og:image" content="public/images/logo80px.png">
+	<meta property="og:url" content="<?= $url ?>" >
+	<meta property="og:site_name" content="Nicolas Duquesne Développeur Web">
+	<meta property="og:description" content="<?= $description ?>" >
+	<meta name="twitter:title" content="<?= $title ?> ">
+	<meta name="twitter:image" content="public/images/llogo80px.png" >
+	<meta name="twitter:url" content="<?= $url ?>" >
+	<meta name="twitter:card" content="summary" >
+
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" href="public/images/logo80px.png">
