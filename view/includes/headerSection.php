@@ -8,9 +8,9 @@
 						<div class="right-area">
 							<h5>Ban Phoxay, Sissatanak</h5>
 							<h5>Vientiane, Laos</h5>
-						</div><!-- right-area -->
-					</div><!-- info -->
-				</div><!-- col-sm-4 -->
+						</div>
+					</div>
+				</div>
 				
 				<div class="col-sm-6 col-md-6 col-lg-4">
 					<div class="info">
@@ -18,9 +18,9 @@
 						<div class="right-area">
 							<h5>0033-678367486</h5>
 							<h6>WHATSAPP</h6>
-						</div><!-- right-area -->
-					</div><!-- info -->
-				</div><!-- col-sm-4 -->
+						</div>
+					</div>
+				</div>
 				
 				<div class="col-sm-6 col-md-6 col-lg-4">
 					<div class="info">
@@ -28,13 +28,14 @@
 						<div class="right-area">
 							<h5>contact@nicolasduquesne.com</h5>
 							<h6></h6>
-						</div><!-- right-area -->
-					</div><!-- info -->
-				</div><!-- col-sm-4 -->
-			</div><!-- row -->
-		</div><!-- heading-wrapper -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		
-		<a class="downlad-btn" href="#">Download CV</a>
+		<a class="downlad-btn bg-primary " href="http://www.Upstairslab.nicolasduquesne.com" target="_blank">UpstairsLab</a>
+		<a class="btn btn-secondary" href="#">FR / ENG</a>
 		
-	</div><!-- container -->
+	</div>
 </header>
