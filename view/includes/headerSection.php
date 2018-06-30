@@ -34,7 +34,7 @@
 			</div>
 		</div>
 		
-		<a class="downlad-btn bg-primary " href="http://www.Upstairslab.nicolasduquesne.com" target="_blank">UpstairsLab</a>
+		<a class="downlad-btn bg-primary " href="http://www.upstairslab.nicolasduquesne.com" target="_blank">UpstairsLab</a>
 		<a class="btn btn-secondary" href="#">FR / ENG</a>
 		
 	</div>
