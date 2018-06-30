@@ -141,7 +141,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 	position: relative; 
 	background-size: cover; 
 	z-index: 1;
-	background-image: url(../../public/images/slider-1-1920x1080.jpg); 
+	background-image: url(../../public/images/DSC00088.JPG); 
 }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
