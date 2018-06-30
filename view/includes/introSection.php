@@ -12,10 +12,10 @@
 						<li><b>EMAIL : </b>contact@nicolasduquesne.com</li>
 					</ul>
 					<ul class="social-icons">
-						<li><a href="http://www.linkedin.com/in/nicolas-duquesne-b213b114b"><i class="ion-social-linkedin"></i></a></li>
-						<li><a href="https://www.facebook.com/Nicolas-Duquesne-Web-Dev-205879923576588/"><i class="ion-social-facebook"></i></a></li>
-						<li><a href="https://github.com/nicolasdugit"><i class="ion-social-github"></i></a></li>
-						<li><a href="https://www.malt.fr/profile/nicolasduquesne"><i class="ion-social"></i>Malt</a></li>
+						<li><a href="http://www.linkedin.com/in/nicolas-duquesne-b213b114b" target="_blank"><i class="ion-social-linkedin"></i></a></li>
+						<li><a href="https://www.facebook.com/Nicolas-Duquesne-Web-Dev-205879923576588/" target="_blank"><i class="ion-social-facebook"></i></a></li>
+						<li><a href="https://github.com/nicolasdugit" target="_blank"><i class="ion-social-github"></i></a></li>
+						<li><a href="https://www.malt.fr/profile/nicolasduquesne" target="_blank"><i class="ion-social"></i>Malt</a></li>
 					</ul>
 				</div>
 			</div>
