@@ -1,4 +1,4 @@
-
+<?php $title = "Nicolas Duquesne, Développeur Web" ?>
 
 <?php ob_start(); ?>
 
