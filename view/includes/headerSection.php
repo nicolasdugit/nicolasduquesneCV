@@ -35,7 +35,7 @@
 		</div>
 		
 		<a class="downlad-btn bg-primary " href="http://www.upstairslab.nicolasduquesne.com" target="_blank">UpstairsLab</a>
-		<a class="btn btn-secondary" href="#">FR / ENG</a>
+		<a class="btn btn-secondary" href="<?= $languageLink ?>">FR / ENG</a>
 		
 	</div>
 </header>

@@ -77,7 +77,7 @@
 			</div>
 				
 			<div class="p-item perso">
-				<a href="public/images/portfolio-20-400x400.jpg" target="_blank" data-fluidbox>
+				<a href="public/game/snake.html" target="_blank" data-fluidbox>
 					<figure>
 						<img src="public/images/snake.png" alt="Snake">
 					</figure>
