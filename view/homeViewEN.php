@@ -1,9 +1,9 @@
 <?php $language = "en_EN" ?>
 <?php $languageLink ="index.php?lang=fr" ?>
 <?php $url = "http://www.nicolasduquesne.com" ?>
-<?php $title = "Nicolas Duquesne, Développeur Web" ?>
-<?php $description = "Bienvenue sur la page personnelle de Nicolas Duquesne, développeur web indépendant" ?>
-<?php $keywords = "Nicolas Duquesne, développeur, web, HML, CSS, JavaScript, PHP, Bootsrap, auto entrepreneur, indépendant" ?>
+<?php $title = "Nicolas Duquesne, Web Developer" ?>
+<?php $description = "Welcome on Nicolas Duquesne landing page, web developer freelance" ?>
+<?php $keywords = "Nicolas Duquesne, développeur, web, HML, CSS, JavaScript, PHP, Bootsrap, freelance" ?>
 
 <?php ob_start(); ?>
 

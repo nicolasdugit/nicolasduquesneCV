@@ -3,16 +3,16 @@
 		<div class="row">
 			<div class="col-sm-12 center-text">
 				<div class="heading ">
-					<h3><b>A Propos</b></h3>
-					<h6 class="font-lite-black"><b>PARCOURS PERSONNEL</b></h6>
+					<h3><b>About me</b></h3>
+					<h6 class="font-lite-black"><b>PERSONNAL PATH</b></h6>
 				</div>
 			</div><!-- col-sm-3 -->
 			<div class="col-sm-12 col-md-12">
-				<p class="margin-b-30 text-center">Après 10 ans d’expérience professionnelle en tant que dessinateur industriel, je profite d’un déménagement à l’étranger pour sauter le pas et entreprendre une nouvelle carrière dans un domaine qui me passionne depuis de nombreuses années : le développement web. <br>
-				C’est dans la ville de Vientiane, capitale du Laos, où je vis actuellement, que je m’initie en autodidacte à cette nouvelle activité, en réalisant plusieurs sites internet pour des proches. <br>
-				Puis je me professionnalise en intégrant le cursus diplômant en développement web <a href="https://openclassrooms.com/paths/48-developpeur-web-junior">d’Openclassroooms</a>, structure renommée et reconnue par l’État. <br>
-				Je maîtrise à présent les langages (HTML, CSS, JavaScript et PHP) et outils (wordpress, bootstrap, github) nécessaires au développement de sites webs adaptables à tous types de support. J’apporte également une grande attention au respect des standard du web et des normes en vigueurs, et à l’amélioration du référencement naturel. <br>
-				Je travaille aujourd'hui comme develeppeur web indépendant au sein de l'equipe <a href="http://www.upstairslab.nicolasduquesne.com">d'UpstairsLab</a>.
+				<p class="margin-b-30 text-center">After 10 years of professional experience as an industrial designer, I take advantage of a move abroad to take the plunge and start a new career in a world that has fascinated me for many years: <b>web development</b>.<br>
+				It is in the city of Vientiane, the capital of Laos, where I live now, that I initiated myself into this new activity, realizing several websites for relatives. <br>
+				Then I professionalize myself by integrating the diploma course in web development with <a href="https://openclassrooms.com">Openclassroooms</a>, renowned an recognized organisation. <br>
+				I now master languages (HTML, CSS, JavaScript and PHP) and tools (wordpress, bootstrap, github) necessary for the development of websites adaptable to all types of support. I also bring great attention to the respect of web standards and standards in force, and the improvement of SEO. <br>
+				I work today as an independent web developer <a href="http://www.upstairslab.nicolasduquesne.com">UpstairsLab</a> team.
 				</p>
 			</div>
 		</div>

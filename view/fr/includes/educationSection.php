@@ -34,7 +34,7 @@
 						<h4><b>BACCALAUREAT SERIE SCIENTIFIQUE</b></h4>
 						<h5 class="font-yellow"><b>LYCÉE JACQUES MONOD, LESCAR</b></h5>
 						<h6 class="font-lite-black margin-t-10">RECU EN 2004</h6>
-						<p class="margin-t-30">Option SVT </p>
+						<p class="margin-t-30"></p>
 					</div>
 
 				</div>
