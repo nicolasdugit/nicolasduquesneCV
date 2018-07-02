@@ -23,7 +23,7 @@ try {
 		homeFrench();
 	}
 }
-catch(Exeption $e) {
+catch(Exception $e) {
 	$errorMessage = $e->getMessage();
 	require('view/errorView.php');
 }
