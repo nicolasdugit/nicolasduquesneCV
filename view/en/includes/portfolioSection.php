@@ -4,15 +4,15 @@
 			<div class="col-sm-12">
 				<div class="heading">
 					<h3><b>Portfolio</b></h3>
-					<h6 class="font-lite-black"><b>MES TRAVAUX RÉALISÉS</b></h6>
+					<h6 class="font-lite-black"><b>MY WORK</b></h6>
 				</div>
 			</div>
 			
 			<div class="col-sm-12">
 				<div class="portfolioFilter clearfix margin-b-80">
-					<a href="#" data-filter="*" class="current"><b>TOUS</b></a>
+					<a href="#" data-filter="*" class="current"><b>ALL</b></a>
 					<a href="#" data-filter=".pro"><b>PRO</b></a>
-					<a href="#" data-filter=".studies"><b>ETUDES</b></a>
+					<a href="#" data-filter=".studies"><b>STUDIES</b></a>
 					<a href="#" data-filter=".perso"><b>PERSO</b></a>
 				</div>
 			</div>
