@@ -12,7 +12,7 @@
 					<h4><b>DEVELOPPEUR WEB INDEPENDANT</b></h4>
 					<h5 class="font-yellow"><b>UPSTAIRSLAB</b></h5>
 					<h6 class="font-lite-black margin-t-10">SEPTEMBRE 2017 - AUJOURD'HUI</h6>
-					<p class="margin-tb-30"> Depuis septembre 2017, je travaille comme developpeur independant au sein de l'équipe <a href="http://www.upstairslab.nicolasduquesne">d'UpstairsLab</a></p>
+					<p class="margin-tb-30"> Depuis septembre 2017, je travaille comme developpeur independant au sein de l'équipe <a href="http://www.upstairslab.co">d'UpstairsLab</a></p>
 					<ul class="list margin-b-30">
 						<li><span>Développement de site web</span></li>
 						<li><span>Organisation de Vientiane Tech Talks : conférences autour des nouvelles technologies</span></li>

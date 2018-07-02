@@ -7,8 +7,8 @@
 						<div></div>
 						<h6 class="progress-title">DEVELOPPEMENT WEB</h6>
 					</div>
-				</div><!-- radial-prog-area-->
-			</div><!-- col-sm-6-->
+				</div>
+			</div>
 		
 			<div class="col-sm-6 col-md-6 col-lg-3">
 				<div class="radial-prog-area margin-b-30">
@@ -16,8 +16,8 @@
 						<div></div>
 						<h6 class="progress-title">WEB DESIGN</h6>
 					</div>
-				</div><!-- radial-prog-area-->
-			</div><!-- col-sm-6-->
+				</div>
+			</div>
 			
 			<div class="col-sm-6 col-md-6 col-lg-3">
 				<div class="radial-prog-area margin-b-30">
@@ -25,8 +25,8 @@
 						<div></div>
 						<h6 class="progress-title">RESPONSIVE DESIGN</h6>
 					</div>
-				</div><!-- radial-prog-area-->
-			</div><!-- col-sm-6-->
+				</div>
+			</div>
 			
 			<div class="col-sm-6 col-md-6 col-lg-3">
 				<div class="radial-prog-area margin-b-50">
@@ -34,9 +34,9 @@
 						<div></div>
 						<h6 class="progress-title">REFERENCEMENT</h6>
 					</div>
-				</div><!-- radial-prog-area-->
-			</div><!-- col-sm-6-->
+				</div>
+			</div>
 		
-		</div><!-- row -->
-	</div><!-- container -->
-</section><!-- radial-progress-section -->
+		</div>
+	</div>
+</section>

@@ -15,7 +15,6 @@
 			<hr>
 			<a class="btn btn-warning" href="index.php?lang=fr">Home</a>
 	</div>
-	
 
 <?php $content = ob_get_clean(); ?>
 

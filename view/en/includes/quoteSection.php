@@ -10,7 +10,7 @@
 					<figure>
 						<div><h3><a href="https://www.geoquants.com/">GEOQUANTS</a></h3></div>
 						<div><h3><a href="https://researchdatarobot.com/">RESEARCH DATA BOT</a></h3></div>
-						<div><h3><a href="http://www.upstairslab.nicolasduquesne.com">UPSTAIRSLAB</a></h3></div>
+						<div><h3><a href="http://www.upstairslab.co">UPSTAIRSLAB</a></h3></div>
 						<div><h3><a href="https://www.geoquants.com/">GEOQUANTS</a></h3></div>
 					</figure>
     			</div>
