@@ -1,5 +1,5 @@
-<?php $language = "fr_FR" ?>
-<?php $languageLink ="#" ?>
+<?php $language = "en_EN" ?>
+<?php $languageLink ="index.php?lang=fr" ?>
 <?php $url = "http://www.nicolasduquesne.com" ?>
 <?php $title = "Nicolas Duquesne, Développeur Web" ?>
 <?php $description = "Bienvenue sur la page personnelle de Nicolas Duquesne, développeur web indépendant" ?>

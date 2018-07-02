@@ -3,11 +3,15 @@
 require('controller/frontend.php');
 
 try {
-	if (isset($_GET['page']))
+	if (isset($_GET['lang']))
 	{
-		if ($_GET['action'] == 'en')
+		if ($_GET['lang'] == 'en')
 		{
 			homeEnglish();
+		}
+		else if ($_GET['lang'] == 'fr')
+		{
+			homeFrench();
 		}
 		else 
 		{

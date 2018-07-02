@@ -5,7 +5,7 @@ function homeEnglish ()
 	require('view/homeViewEN.php');
 }
 
-function homeFench ()
+function homeFrench ()
 {
 	require('view/homeView.php');
 }
