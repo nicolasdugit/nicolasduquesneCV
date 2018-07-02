@@ -67,14 +67,6 @@
 					</figure>
 				</a>
 			</div>
-			
-			<div class="p-item studies">
-				<a href="http://www.blog-ecrivain.nicolasduquesne.com" target="_blank" data-fluidbox>
-					<figure>
-						<img src="public/images/alaska.jpg" alt="Blog Ecrivain">
-					</figure>
-				</a>
-			</div>
 				
 			<div class="p-item perso">
 				<a href="public/game/snake.html" target="_blank" data-fluidbox>
@@ -84,6 +76,67 @@
 				</a>
 			</div>
 		
+			<div class="p-item studies">
+				<a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+					<div class="portfolio-hover">
+						<div class="portfolio-hover-content">
+							<i class="fa fa-plus fa-3x"></i>
+						</div>
+					</div>
+					<img class="img-fluid" src="public/images/alaska.jpg" alt="">
+				</a>
+				<div class="portfolio-caption">
+					<h4>Blog Ecrivain</h4>
+					<p class="text-muted">06-2018</p>
+				</div>	
+			</div>
+
 		</div>
+
+
+		<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="close-modal" data-dismiss="modal">
+						<div class="lr">
+							<div class="rl"></div>
+						</div>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-8 mx-auto">
+								<div class="modal-body">
+								<!-- Project Details Go Here -->
+									<h2 class="text-uppercase">Vientiane Tech Talk</h2>
+									<p class="item-intro text-muted">A meetup with talks about tech</p>
+									<a href="http://www.blog-ecrivain.nicolasduquesne.com" target="_blank" data-fluidbox>sas</a>
+
+									<img class="img-fluid d-block mx-auto" src="public/images/alaska.jpg" alt="">
+									<p>
+										<ul class="list-group">
+											<li class="list-group-item list-group-item-warning list-group-item-action">"Learning to code from scratch"<span class="blockquote-footer">Nicolas Duquesne</span> </li>
+											<li class="list-group-item list-group-item-warning list-group-item-action">"Being a lao IT specialist, from small ISP to mining company and government"<span class="blockquote-footer">Ping Houangsanasay</span></li><br>
+											<li class="list-group-item list-group-item-warning list-group-item-action">"Launch an app in Laos"<span class="blockquote-footer">Nathan Bowen</span></li><br>
+											<li class="list-group-item list-group-item-warning list-group-item-action">"Classify and visualize 1000's of Instagram Pictures in the browser"<span class="blockquote-footer">Sylvain Dorey</span></li><br>
+										</ul>
+									</p>
+									<ul class="list-inline">
+										<li>When: 20/06/2018</li>
+										<li>Where: UpstairsLab</li>
+										<li>Who: You !</li>
+									</ul>
+								<button class="btn btn-primary" data-dismiss="modal" type="button">
+									<i class="fa fa-times"></i>
+									Close Event
+								</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
 	</div>
 </section>
