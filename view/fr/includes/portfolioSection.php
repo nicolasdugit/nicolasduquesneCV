@@ -1,4 +1,4 @@
-<section class="portfolio-section section center-text">
+<section id="port" class="portfolio-section section center-text">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
@@ -76,7 +76,7 @@
 				</a>
 			</div>
 		
-			<div class="p-item studies">
+			<div class="p-item studies portfolio-item">
 				<a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
 					<div class="portfolio-hover">
 						<div class="portfolio-hover-content">
@@ -111,7 +111,7 @@
 									<p class="item-intro text-muted">A meetup with talks about tech</p>
 									<a href="http://www.blog-ecrivain.nicolasduquesne.com" target="_blank" data-fluidbox>sas</a>
 
-									<img class="img-fluid d-block mx-auto" src="public/images/alaska.jpg" alt="">
+									<!-- <img class="img-fluid d-block mx-auto" src="public/images/alaska.jpg" alt=""> -->
 									<p>
 										<ul class="list-group">
 											<li class="list-group-item list-group-item-warning list-group-item-action">"Learning to code from scratch"<span class="blockquote-footer">Nicolas Duquesne</span> </li>
@@ -137,6 +137,6 @@
 			</div>
 		</div>
 
-		
+
 	</div>
 </section>
