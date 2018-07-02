@@ -4,7 +4,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="slider">
-				<h3 class="font-yellow"><b>Collaborateurs</b></h3>
+				<h3 class="font-yellow"><b>I'm working with</b></h3>
 				<i class="icon ion-quote"></i>
 				<hr>
 					<figure>
