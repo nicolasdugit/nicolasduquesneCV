@@ -7,6 +7,6 @@ function homeEnglish ()
 
 function homeFrench ()
 {
-	require('view/homeView.php');
+	require('view/homeViewFR.php');
 }
 
