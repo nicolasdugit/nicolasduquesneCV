@@ -3,17 +3,17 @@
 		<div class="row">
 			<div class="col-sm-12 center-text">
 				<div class="heading">
-					<h3><b>Compétences Techniques</b></h3>
-					<h6 class="font-lite-black"><b>MES SPÉCIALITÉS</b></h6>
+					<h3><b>Technical Skills</b></h3>
+					<h6 class="font-lite-black"><b>I'M GOOD AT</b></h6>
 				</div>
 			</div>
 		
 			<div class="col-sm-12 col-md-6">
-				<h4><b>DEVELOPPEMENT WEB</b></h4>
-				<h6 class="expert">CONFIRMÉ</h6>
+				<h4><b>WEB DEVELOPMENT</b></h4>
+				<h6 class="expert">EXPERT</h6>
 				
-				<p class="margin-tb-30">La connaissance des langages HTML, CSS, JS et PHP me permet de répondre à vos besoins en terme de création de site web. <br>
-					Et comme le web évolue constamment, je continue de me perfectionnr sur ces langages et à en apprendre des nouveaux.
+				<p class="margin-tb-30">The knowledge of HTML, CSS, JS and PHP allows me to meet your needs in terms of website creation.
+				And as the web evolves constantly, I continue to perfect myself on these languages ​​and to learn new ones.
 				</p>
 					
 				<div class="line-progress margin-b-20" data-prog-percent=".90"><div></div>
@@ -30,11 +30,10 @@
 			</div>
 			
 			<div class="col-sm-12 col-md-6">
-				<h4><b>FRAMEWORK ET CMS</b></h4>
-				<h6 class="expert">CONFIRMÉ</h6>
+				<h4><b>FRAMEWORK AND CMS</b></h4>
+				<h6 class="expert">EXPERT</h6>
 				
-				<p class="margin-tb-30">De nombreux outils sont mis à la dispositions des développeurs web pour leur permettre de travailler plus efficacement. <br>
-					Ma formation et mes expériences personnels me poussent à en apprendre davantage chaques jours. <br>
+				<p class="margin-tb-30">Many tools are made available to web developers to enable them to work more efficiently. My training and my personal experiences push me to learn more every day. <br>
 				</p>
 					
 				<div class="line-progress margin-b-20" data-prog-percent=".90"><div></div>
