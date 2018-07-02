@@ -6,10 +6,27 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://nicolasduquesne.com/</loc>
+  <loc>http://www.nicolasduquesne.com/</loc>
+  <lastmod>2018-07-02T07:22:11+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://nicolasduquesne.com/index.php</loc>
+  <loc>http://www.nicolasduquesne.com/index.php?lang=en</loc>
+  <lastmod>2018-07-02T07:22:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>http://www.nicolasduquesne.com/public/game/snake.html</loc>
+  <lastmod>2018-06-30T07:54:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.nicolasduquesne.com/index.php?lang=fr</loc>
+  <lastmod>2018-07-02T07:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
