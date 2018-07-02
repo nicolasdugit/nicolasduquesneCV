@@ -37,6 +37,7 @@
 	
 	<!-- Font -->
 	<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700%7CAllura" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 	
 	<!-- Stylesheets -->
 	<link href="public/css/bootstrap.css" rel="stylesheet">
@@ -46,6 +47,7 @@
 	<!-- Stylesheets des differents templates -->
 	<link href="public/css/business-styles.css" rel="stylesheet">
 	<link href="public/css/business-responsive.css" rel="stylesheet">
+	<link href="public/css/portfolio.css" rel="stylesheet">
 	
 </head>
 <body>
