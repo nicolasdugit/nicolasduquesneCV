@@ -51,7 +51,7 @@
 <body>
 	<?= $content ?>
 
-	<?php include('view/includes/footerSection.php') ?>	
+	<?php include('view/en/includes/footerSection.php') ?>	
 
 	<!-- SCIPTS -->
 	<script src="public/js/jquery-3.2.1.min.js"></script>
