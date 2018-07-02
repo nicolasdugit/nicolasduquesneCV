@@ -87,7 +87,7 @@
 							<i class="fa fa-plus fa-3x"></i>
 						</div>
 					</div>
-					<img src="public/images/portfolio-17-400x400.jpg" alt="UpstairsLab">
+					<img src="public/images/upstairsLabLogo.png" alt="UpstairsLab">
 				</a>
 				<div class="portfolio-caption">
 					<h4>UpstairsLab</h4>
