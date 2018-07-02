@@ -7,15 +7,15 @@
 
 <?php ob_start(); ?>
 
-	<?php include('view/includes/headerSection.php') ?>
-	<?php include('view/includes/introSection.php') ?>
-	<?php include('view/includes/aboutSection.php') ?>
-	<?php include('view/includes/experienceSection.php') ?>
-	<?php include('view/includes/portfolioSection.php') ?>
-	<?php include('view/includes/educationSection.php') ?>
-	<?php include('view/includes/progressSection.php') ?>
-	<?php include('view/includes/skillsSection.php') ?>
-	<?php include('view/includes/quoteSection.php') ?>
+	<?php include('view/fr/includes/headerSection.php') ?>
+	<?php include('view/fr/includes/introSection.php') ?>
+	<?php include('view/fr/includes/aboutSection.php') ?>
+	<?php include('view/fr/includes/experienceSection.php') ?>
+	<?php include('view/fr/includes/portfolioSection.php') ?>
+	<?php include('view/fr/includes/educationSection.php') ?>
+	<?php include('view/fr/includes/progressSection.php') ?>
+	<?php include('view/fr/includes/skillsSection.php') ?>
+	<?php include('view/fr/includes/quoteSection.php') ?>
 
 <?php $content = ob_get_clean(); ?>
 
