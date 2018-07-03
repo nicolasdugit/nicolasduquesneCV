@@ -12,7 +12,7 @@
 				It is in the city of Vientiane, the capital of Laos, where I live now, that I initiated myself into this new activity, realizing several websites for relatives. <br>
 				Then I professionalize myself by integrating the diploma course in web development with <a href="https://openclassrooms.com">Openclassroooms</a>, renowned an recognized organisation. <br>
 				I now master languages (HTML, CSS, JavaScript and PHP) and tools (wordpress, bootstrap, github) necessary for the development of websites adaptable to all types of support. I also bring great attention to the respect of web standards and standards in force, and the improvement of SEO. <br>
-				I work today as an independent web developer <a href="http://www.upstairslab.nicolasduquesne.com">UpstairsLab</a> team.
+				I work today as an independent web developer <a href="http://www.upstairslab.co">UpstairsLab</a> team.
 				</p>
 			</div>
 		</div>

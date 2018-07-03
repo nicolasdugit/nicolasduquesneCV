@@ -119,7 +119,7 @@
 							<h2 class="text-uppercase">UpstairsLab</h2>
 							<p class="item-intro text-muted">Event about tech</p>
 							<div class="row">
-								<a class="col-md-3 offset-md-2 btn btn-success" href="http://www.upstairslab.nicolasduquesne.com" target="_blank">Voir le site</a>
+								<a class="col-md-3 offset-md-2 btn btn-success" href="http://www.upstairslab.co" target="_blank">Voir le site</a>
 								<button class="col-md-3 offset-md-2 btn btn-warning" data-dismiss="modal" type="button"><i class="fa fa-times"></i> Fermer</button>
 							</div>
 						</div>

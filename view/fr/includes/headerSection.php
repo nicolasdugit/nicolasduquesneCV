@@ -26,16 +26,15 @@
 					<div class="info">
 						<i class="icon ion-ios-chatboxes-outline"></i>
 						<div class="right-area">
-							<h5>contact@nicolasduquesne.com</h5>
-							<h6></h6>
+							<a href="mailto:contact@nicolasduquesne.com"><h5>contact@nicolasduquesne.com</h5></a>
+							<h6>CONTACTEZ MOI</h6>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 		
-		<a class="downlad-btn bg-primary " href="http://www.upstairslab.nicolasduquesne.com" target="_blank">UpstairsLab</a>
-		<a class="btn btn-secondary" href="<?= $languageLink ?>">FR / ENG</a>
+		<a class="downlad-btn btn-primary" href="<?= $languageLink ?>">FR / ENG</a>
 		
 	</div>
 </header>
