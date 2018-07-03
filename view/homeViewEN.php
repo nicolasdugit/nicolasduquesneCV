@@ -3,7 +3,7 @@
 <?php $url = "http://www.nicolasduquesne.com" ?>
 <?php $title = "Nicolas Duquesne, Web Developer" ?>
 <?php $description = "Welcome on Nicolas Duquesne landing page, web developer freelance" ?>
-<?php $keywords = "Nicolas Duquesne, développeur, web, HML, CSS, JavaScript, PHP, Bootsrap, freelance" ?>
+<?php $keywords = "Nicolas Duquesne, developer, web, HML, CSS, JavaScript, PHP, Bootsrap, freelance" ?>
 
 <?php ob_start(); ?>
 
