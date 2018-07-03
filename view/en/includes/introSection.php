@@ -5,7 +5,7 @@
 			<div class="col-md-10 col-lg-8">
 				<div class="intro">
 					<div class="profile-img"><img src="public/images/nicolas.png" alt="Nicolas Duquesne"></div>
-					<h2><b>Nicolas Duquesne</b></h2>
+					<h1><b>Nicolas Duquesne</b></h1>
 					<h4 class="font-yellow">Développeur Web <br> <a href="http://www.upstairslab.co">@Upstairslab</a></h4>
 					<ul class="information margin-tb-30">
 						<li><b>AGE : </b>32</li>
