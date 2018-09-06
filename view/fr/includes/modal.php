@@ -39,6 +39,7 @@
 						<div class="modal-body">
 						<!-- Project Details Go Here -->
 							<h2 class="text-uppercase">Web Agency</h2>
+                            <h3>Projet de formation Openclassrooms</h3>
 							<p class="item-intro text-muted">L'Agence de tous vos projets</p>
 							<div class="row">
 								<a class="col-md-3 offset-md-2 btn btn-success" href="http://www.webagency.nicolasduquesne.com" target="_blank">Voir le site</a>
@@ -91,6 +92,7 @@
 						<div class="modal-body">
 						<!-- Project Details Go Here -->
 							<h2 class="text-uppercase">Office de tourisme de Strasbourg</h2>
+                            <h3>Projet de formation Openclassrooms</h3>
 							<p class="item-intro text-muted">Ville de Strasbourg</p>
 							<div class="row">
 								<a class="col-md-3 offset-md-2 btn btn-success" href="http://www.strasbourg-tourisme.nicolasduquesne.com" target="_blank">Voir le site</a>
@@ -143,7 +145,8 @@
 						<div class="modal-body">
 						<!-- Project Details Go Here -->
 							<h2 class="text-uppercase">RésaVélo'V</h2>
-							<p class="item-intro text-muted">Application de réservation de vélo'v a Lyon</p>
+                            <h3>Projet de formation Openclassrooms</h3>
+                            <p class="item-intro text-muted">Application de réservation de vélo'v a Lyon</p>
 							<div class="row">
 								<a class="col-md-3 offset-md-2 btn btn-success" href="http://www.velov-lyon.nicolasduquesne.com" target="_blank">Voir le site</a>
 								<button class="col-md-3 offset-md-2 btn btn-warning" data-dismiss="modal" type="button"><i class="fa fa-times"></i> Fermer</button>
@@ -195,6 +198,7 @@
 						<div class="modal-body">
 						<!-- Project Details Go Here -->
 							<h2 class="text-uppercase">Billet Simple Pour L'Alaska</h2>
+                            <h3>Projet de formation Openclassrooms</h3>
 							<p class="item-intro text-muted">Blog de Jean Forteroche</p>
 							<div class="row">
 								<a class="col-md-3 offset-md-2 btn btn-success" href="http://www.blog-ecrivain.nicolasduquesne.com" target="_blank">Voir le site</a>
