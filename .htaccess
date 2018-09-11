@@ -1,9 +1,9 @@
 RewriteEngine on
 
-RewriteCond %{HTTP_HOST} !^www\.
+
+
 RewriteCond %{HTTPS} !on
 RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [R=301,L]
-
 
 ErrorDocument 401 /view/errorView.php
 ErrorDocument 403 /view/errorView.php
