@@ -13,7 +13,7 @@
 	<div class="container" style="text-align: center; margin: 50px auto;">
 			<h1>ERROR - THIS PAGE DOESN'T EXIST</h1>
 			<hr>
-			<a class="btn btn-warning" href="index.php?lang=fr">Home</a>
+			<a class="btn btn-warning" href="https://www.nicolasduquesne.com">Home</a>
 	</div>
 
 <?php $content = ob_get_clean(); ?>
