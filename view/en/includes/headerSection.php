@@ -26,7 +26,7 @@
 					<div class="info">
 						<i class="icon ion-ios-chatboxes-outline"></i>
 						<div class="right-area">
-							<a href="mailto:contact@nicolasduquesne.com"><h5>contact@nicolasduquesne.com</h5></a>
+							<a href="mailto:contact@nicolasduquesne.com"><h5>nicolas@upstairslab.co</h5></a>
 							<h6>CONTACT ME</h6>
 						</div>
 					</div>
