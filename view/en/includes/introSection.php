@@ -9,7 +9,7 @@
 					<h4 class="font-yellow">Développeur Web <br> <a href="http://www.upstairslab.co">@Upstairslab</a></h4>
 					<ul class="information margin-tb-30">
 						<li><b>AGE : </b>32</li>
-						<li><b>EMAIL : </b>contact@nicolasduquesne.com</li>
+						<li><b>EMAIL : </b>nicolas@upstairslab.co</li>
 					</ul>
 					<ul class="social-icons">
 						<li><a href="http://www.linkedin.com/in/nicolas-duquesne-b213b114b" target="_blank"><i class="ion-social-linkedin"></i></a></li>
