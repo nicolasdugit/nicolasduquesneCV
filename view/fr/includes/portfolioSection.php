@@ -34,6 +34,8 @@
 					<p class="text-muted">10-2017</p>
 				</div>
 			</div>
+
+			
 			
 			<div class="p-item studies portfolio-item">
 				<a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
@@ -138,6 +140,21 @@
 					<h4>Blog Ecrivain</h4>
 					<p class="text-muted">06-2018</p>
 				</div>	
+			</div>
+
+			<div class="p-item pro portfolio-item">
+				<a class="portfolio-link" data-toggle="modal" href="#portfolioModal9">
+					<div class="portfolio-hover">
+						<div class="portfolio-hover-content">
+							<i class="fa fa-plus fa-3x"></i>
+						</div>
+					</div>
+					<img src="public/images/oste-kine-sport.png" alt="Oste Kine Sport">
+				</a>
+				<div class="portfolio-caption">
+					<h4>Oste Kine Sport</h4>
+					<p class="text-muted">02-2019</p>
+				</div>
 			</div>
 
 		</div>
